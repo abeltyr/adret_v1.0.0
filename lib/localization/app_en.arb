@@ -1,0 +1,698 @@
+{
+    "shop": "Shop",
+    "@shop": {
+        "description": "shop"
+    },
+    "reconnect": "Reconnect",
+    "@reconnect": {
+        "description": "Reconnect"
+    },
+    "internetIssue": "Internet Issue",
+    "@internetIssue": {
+        "description": "Internet Issue"
+    },
+    "networkErrorPrompt": "This App requires internet connection to keep everything in sync and working properly. \n How to fix it.",
+    "@networkErrorPrompt": {
+        "description": "This App requires internet connection to keep everything in sync and working properly. \n How to fix it."
+    },
+    "turnOnData": "Turn your cellular data \n Or Connect to a working wifi",
+    "@turnOnData": {
+        "description": "Turn your cellular data"
+    },
+    "welcomeMessage": "Welcome to Adret",
+    "@welcomeMessage": {
+        "description": "Welcome to Adret"
+    },
+    "loginPrompt": "Please provide your Detail to login",
+    "@loginPrompt": {
+        "description": "Please provide your Detail to login"
+    },
+    "companyCode": "Company Code",
+    "@companyCode": {
+        "description": "Company Code"
+    },
+    "username": "Username",
+    "@username": {
+        "description": "Username"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Password"
+    },
+    "companyRequired": "Company code is required",
+    "@companyRequired": {
+        "description": "Company code is required"
+    },
+    "usernameRequired": "Please input your username",
+    "@usernameRequired": {
+        "description": "Please input your username"
+    },
+    "passwordRequired": "Please input your password",
+    "@passwordRequired": {
+        "description": "Please input your password"
+    },
+    "errorNotification": "Something went wrong. Please try again.",
+    "@errorNotification": {
+        "description": "Something went wrong. Please try again."
+    },
+    "signIn": "Sign in",
+    "@signIn": {
+        "description": "sign in"
+    },
+    "employee": "Employee",
+    "@employee": {
+        "description": "Employee"
+    },
+    "employees": "Employees",
+    "@employees": {
+        "description": "Employees"
+    },
+    "addEmployee": "Add Employee",
+    "@addEmployee": {
+        "description": "Add Employee"
+    },
+    "addEmployeeButtonText": "Click the button bellow to add your employee",
+    "@addEmployeeButtonText": {
+        "description": "Click the button bellow to add your employee"
+    },
+    "noEmployee": "No Employees under this shop",
+    "@noEmployee": {
+        "description": "No Employees under this shop"
+    },
+    "fullName": "Full Name",
+    "@fullName": {
+        "description": "Full Name"
+    },
+    "phoneNumber": "Phone Number",
+    "@phoneNumber": {
+        "description": "Phone Number"
+    },
+    "confirmPassword": "Confirm Password",
+    "@confirmPassword": {
+        "description": "Confirm Password"
+    },
+    "shortName": "Name is too short",
+    "@shortName": {
+        "description": "name is too short to render"
+    },
+    "shortUserName": "User name is too short",
+    "@shortUserName": {
+        "description": "Name is too short"
+    },
+    "phoneNumberErrorMessage": "Please provide a valid phone number, starting with +251",
+    "@phoneNumberErrorMessage": {
+        "description": "Please provide a valid phone number, starting with +251"
+    },
+    "passwordErrorMessage": "Password must contain a Special character, number, upper and lower case",
+    "@passwordErrorMessage": {
+        "description": "Password must contain a Special character, number, upper and lower case,"
+    },
+    "confirmPasswordErrorMessage": "Password doesn't match",
+    "@confirmPasswordErrorMessage": {
+        "description": "Password doesn't match"
+    },
+    "createUserError": "User Creation issue",
+    "@createUserError": {
+        "description": "User Creation issue"
+    },
+    "eStatements": "E-statements",
+    "@eStatements": {
+        "description": "E-statement"
+    },
+    "logOut": "Log Out",
+    "@logOut": {
+        "description": "log out of the account"
+    },
+    "create": "Create",
+    "@create": {
+        "description": "Create"
+    },
+    "profile": "Profile",
+    "@profile": {
+        "description": "Profile"
+    },
+    "emailErrorMessage": "Please provide a valid email address",
+    "@emailErrorMessage": {
+        "description": "Please provide a valid email address"
+    },
+    "profileUpdateMessage": "Profile updated successful!",
+    "@profileUpdateMessage": {
+        "description": "Profile updated successful!"
+    },
+    "updateAccount": "Update account",
+    "@updateAccount": {
+        "description": "update account"
+    },
+    "update": "Update",
+    "@update": {
+        "description": "Update"
+    },
+    "passwordUpdateMessage": "Password updated successful!",
+    "@passwordUpdateMessage": {
+        "description": "Password updated successful!"
+    },
+    "oldPassword": "Old password",
+    "@oldPassword": {
+        "description": "Old password"
+    },
+    "newPassword": "New password",
+    "@newPassword": {
+        "description": "New password"
+    },
+    "reEnterPassword": "Re-enter password",
+    "@reEnterPassword": {
+        "description": "Re-enter password"
+    },
+    "emailAddress": "Email Address",
+    "@emailAddress": {
+        "description": "Email Address"
+    },
+    "checkout": "Checkout",
+    "@checkout": {
+        "description": "Checkout"
+    },
+    "close": "Close",
+    "@close": {
+        "description": "Close"
+    },
+    "tyCheckout": "Empty Checkout",
+    "@tyCheckout": {
+        "description": "Empty Checkout"
+    },
+    "emptyCheckoutMessage": "No Product has been added for checkout.",
+    "@emptyCheckoutMessage": {
+        "description": "No Product has been added for checkout."
+    },
+    "etb": "ETB",
+    "@etb": {
+        "description": "ETB"
+    },
+    "items": "items",
+    "@items": {
+        "description": "items"
+    },
+    "priceIsToLow": "Price is to low",
+    "@priceIsToLow": {
+        "description": "Price is too low"
+    },
+    "orderCreatedMessage": "Order created successfully",
+    "@orderCreatedMessage": {
+        "description": "Order created successfully"
+    },
+    "orderCreatedMessageWithNote": "Order created successfully. \nNote: you have a summary filter on so might not see the current sale.",
+    "@orderCreatedMessageWithNote": {
+        "description": "Order created successfully. \nNote: you have a summary filter on so might not see the current sale."
+    },
+    "saleClosedMessage": "today sales collected and closed by manger",
+    "@saleClosedMessage": {
+        "description": "Today sales collected and closed by manager"
+    },
+    "saleClosedErrorMessage": "Manager has collected and closed today sales. Please contact manager.",
+    "@saleClosedErrorMessage": {
+        "description": "Manager has collected and closed today sales. Please contact manager."
+    },
+    "sell": "Sell",
+    "@sell": {
+        "description": "Sell"
+    },
+    "inStocksData": "InStocks Data",
+    "@inStocksData": {
+        "description": "InStocks Data"
+    },
+    "sellingPrice": "Selling Price",
+    "@sellingPrice": {
+        "description": "Selling Price"
+    },
+    "addProduct": "Add Product",
+    "@addProduct": {
+        "description": "Add Product"
+    },
+    "productTitle": "Product Title",
+    "@productTitle": {
+        "description": "Product Title"
+    },
+    "product": "Product",
+    "@product": {
+        "description": "Product"
+    },
+    "closingProductUpdate": "Closing Product update",
+    "@closingProductUpdate": {
+        "description": "Closing Product update"
+    },
+    "closeProductUpdateMessage": "You have not saved your progress, if you close now all the updates you made will be lost",
+    "@closeProductUpdateMessage": {
+        "description": "You have not saved your progress, if you close now all the updates you made will be lost"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Cancel"
+    },
+    "allProducts": "All Products",
+    "@allProducts": {
+        "description": "All Products"
+    },
+    "manager": "Manager",
+    "@manager": {
+        "description": "Manager"
+    },
+    "addProductPrompt": "Add Your Products and start tracking your profit",
+    "@addProductPrompt": {
+        "description": "Add Your Products and start tracking your profit"
+    },
+    "addProductNotice": "You can start selling once Product are added.",
+    "@addProductNotice": {
+        "description": "You can start selling once Products are added."
+    },
+    "noProducts": "No Product Was Found.",
+    "@noProducts": {
+        "description": "No Product Was Found."
+    },
+    "topSelling": "Top Selling",
+    "@topSelling": {
+        "description": "Top Selling"
+    },
+    "searchPrompt": "Search Products Based On Product Title Or Product Code.",
+    "@searchPrompt": {
+        "description": "Search Products Based On Product Title Or Product Code."
+    },
+    "searchProducts": "Search product",
+    "@searchProducts": {
+        "description": "Search product"
+    },
+    "fetchDataError": "Error Fetching data. please pull down to reload",
+    "@fetchDataError": {
+        "description": "Error Fetching data. Please pull down to reload"
+    },
+    "summary": "Summary",
+    "@summary": {
+        "description": "Summary"
+    },
+    "dailySummary": "Daily Summary",
+    "@dailySummary": {
+        "description": "Daily Summary"
+    },
+    "noSalesSoFar": "No sales So far",
+    "@noSalesSoFar": {
+        "description": "No sales so far"
+    },
+    "goToSell": "Go to product and start selling",
+    "@goToSell": {
+        "description": "Go to product and start selling"
+    },
+    "filter": "filter",
+    "@filter": {
+        "description": "Filter"
+    },
+    "date": "Date",
+    "@date": {
+        "description": "Date"
+    },
+    "allEmployeesSales": "All Employees Sales",
+    "@allEmployeesSales": {
+        "description": "All Employees Sales"
+    },
+    "noItemsFound": "No items found",
+    "@noItemsFound": {
+        "description": "No items found"
+    },
+    "emptyListMessage": "The list is currently Empty",
+    "@emptyListMessage": {
+        "description": "The list is currently empty"
+    },
+    "inventoryTitle": "Inventory Title",
+    "@inventoryTitle": {
+        "description": "Inventory Title"
+    },
+    "earning": "Earning",
+    "@earning": {
+        "description": "Earning"
+    },
+    "order": "Order",
+    "@order": {
+        "description": "Order"
+    },
+    "sales": "Sales",
+    "@sales": {
+        "description": "Sales"
+    },
+    "collect": "Collect",
+    "@collect": {
+        "description": "Collect"
+    },
+    "collecting": "Collecting",
+    "@collecting": {
+        "description": "Collecting"
+    },
+    "collected": "Collected",
+    "@collected": {
+        "description": "Collected"
+    },
+    "profit": "Profit",
+    "@profit": {
+        "description": "Profit"
+    },
+    "confirm": "Confirm",
+    "@confirm": {
+        "description": "confirm "
+    },
+    "collectEmployee": "Collect Employee",
+    "@collectEmployee": {
+        "description": "Collect Employee"
+    },
+    "collectEmployeeCaution": "Caution only click collect button at the end of the work day or when closing up, and after collecting money from the employee.",
+    "@collectEmployeeCaution": {
+        "description": "Caution: Only click collect button at the end of the work day or when closing up, and after collecting money from the employee."
+    },
+    "pullUp": "Pull up",
+    "@pullUp": {
+        "description": "pull up"
+    },
+    "pullUpLoad": "Pull up load",
+    "@pullUpLoad": {
+        "description": "Pull up load"
+    },
+    "loadFailMessage": "Load Failed!Click retry!",
+    "@loadFailMessage": {
+        "description": "Load Failed! Click retry!"
+    },
+    "leasePullLoad": "Release to load more",
+    "@leasePullLoad": {
+        "description": "Release to load more"
+    },
+    "noMoreData": "No more Data",
+    "@noMoreData": {
+        "description": "No more Data"
+    },
+    "save": "Save",
+    "@save": {
+        "description": "Save"
+    },
+    "totalEarning": "Total earning",
+    "@totalEarning": {
+        "description": "total earning"
+    },
+    "done": "Done",
+    "@done": {
+        "description": "Done"
+    },
+    "cameraAccessDenied": "This Device has denied access to you camera",
+    "@cameraAccessDenied": {
+        "description": "This Device has denied access to your camera"
+    },
+    "goToGiveAccess": "Go to setting to give access",
+    "@goToGiveAccess": {
+        "description": "Go to settings to give access"
+    },
+    "openSetting": "Open setting",
+    "@openSetting": {
+        "description": "Open settings"
+    },
+    "category": "Category",
+    "@category": {
+        "description": "Category"
+    },
+    "category1": "shoe",
+    "@category1": {
+        "description": "Shoe"
+    },
+    "category2": "Electronics",
+    "@category2": {
+        "description": "Electronics"
+    },
+    "category3": "cloth",
+    "@category3": {
+        "description": "Cloth"
+    },
+    "category4": "vehicle",
+    "@category4": {
+        "description": "Vehicle"
+    },
+    "productDescriptionPrompt": "Write A Product Description",
+    "@productDescriptionPrompt": {
+        "description": "Write a Product Description"
+    },
+    "addCategory": "Add Category",
+    "@addCategory": {
+        "description": "Add Category"
+    },
+    "add": "Add",
+    "@add": {
+        "description": "Add"
+    },
+    "back": "back",
+    "@back": {
+        "description": "description onf the product"
+    },
+    "description": "Description",
+    "@description": {
+        "description": "Description"
+    },
+    "fetchingProductErrorMessage": "Error fetching current product",
+    "@fetchingProductErrorMessage": {
+        "description": "Error fetching current product"
+    },
+    "closeOrReloadPage": "Please close or reload the page",
+    "@closeOrReloadPage": {
+        "description": "Please close or reload the page"
+    },
+    "reload": "Reload",
+    "@reload": {
+        "description": "Reload"
+    },
+    "inventory": "Inventory",
+    "@inventory": {
+        "description": "Inventory"
+    },
+    "inventories": "Inventories",
+    "@inventories": {
+        "description": "Inventories"
+    },
+    "available": "Available",
+    "@available": {
+        "description": "Available"
+    },
+    "addInventory": "Add Inventory",
+    "@addInventory": {
+        "description": "Add Inventory"
+    },
+    "addInventoryPrompt": "Press the button bellow to add the inventory detail",
+    "@addInventoryPrompt": {
+        "description": "Press the button below to add the inventory detail"
+    },
+    "addInventoryCaution": "a product can only have 10 variation. please create a new product.",
+    "@addInventoryCaution": {
+        "description": "A product can only have 10 variations. Please create a new product."
+    },
+    "variations": "Variations",
+    "@variations": {
+        "description": "Variations"
+    },
+    "variation": "Variation",
+    "@variation": {
+        "description": "Variation"
+    },
+    "validTextPrompt": "Please provide a valid text",
+    "@validTextPrompt": {
+        "description": "Please provide a valid text"
+    },
+    "uploadProductImage": "Upload Product Images",
+    "@uploadProductImage": {
+        "description": "Upload Product Images"
+    },
+    "removeImage": "Remove the current Image",
+    "@removeImage": {
+        "description": "Remove the current Images"
+    },
+    "delete": "Delete",
+    "@delete": {
+        "description": "Delete"
+    },
+    "mediaErrorMessage": "No Media Was Found",
+    "@mediaErrorMessage": {
+        "description": "No Media Was Found"
+    },
+    "cameraAccessPrompt": "This Feature requires Access to your Photos",
+    "@cameraAccessPrompt": {
+        "description": "This Feature requires Access to your Photos"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "Settings"
+    },
+    "setting": "Setting",
+    "@setting": {
+        "description": "Setting"
+    },
+    "photoLibrary": "Photo Library",
+    "@photoLibrary": {
+        "description": "Photo Library"
+    },
+    "buyingPrice": "Buying Price",
+    "@buyingPrice": {
+        "description": "Buying Price"
+    },
+    "minSellingPrice": "Min Selling Price",
+    "@minSellingPrice": {
+        "description": "Min Selling Price"
+    },
+    "maxSellingPrice": "Max Selling Price",
+    "@maxSellingPrice": {
+        "description": "Max Selling Price"
+    },
+    "min": "Min",
+    "@min": {
+        "description": "Min"
+    },
+    "max": "Max",
+    "@max": {
+        "description": "Max Selling Price"
+    },
+    "pricing": "Pricing",
+    "@pricing": {
+        "description": "Pricing"
+    },
+    "range": "Range",
+    "@range": {
+        "description": "Range"
+    },
+    "on": "on",
+    "@on": {
+        "description": "on"
+    },
+    "collectEmployeeEnd": "",
+    "@collectEmployeeEnd": {
+        "description": ""
+    },
+    "noSales": "No Sale's Yet",
+    "@noSales": {
+        "description": "No Sale's Yet"
+    },
+    "goToProduct": "Go to the product and complete an order to make then appear here.",
+    "@goToProduct": {
+        "description": "Go to the product and complete an order to make then appear here."
+    },
+    "noUsers": "No Employees Found",
+    "@noUsers": {
+        "description": "No Employees Found"
+    },
+    "emptyCart": "Empty Cart",
+    "@emptyCart": {
+        "description": "Empty Cart"
+    },
+    "emptyCartDetail": "Please add a product to the checkout, by swiping left on the product card or \n click on the cart icon inside the product.",
+    "@emptyCartDetail": {
+        "description": "Please add a product to the checkout, by swiping left on the product card or \n click on the cart icon inside the product."
+    },
+    "language": "Language",
+    "@language": {
+        "description": "Language"
+    },
+    "languages": "Languages",
+    "@languages": {
+        "description": "Languages"
+    },
+    "remaining": "Available",
+    "@remaining": {
+        "description": "Available"
+    },
+    "productDetail": "Inventory Detail",
+    "@productDetail": {
+        "description": "Inventory Detail"
+    },
+    "productsFetchError": "Something went wrong and could not fetch product.",
+    "@productsFetchError": {
+        "description": "Something went wrong and could not fetch product."
+    },
+    "productsFetchErrorTitle": "Error Fetching Products",
+    "@productsFetchErrorTitle": {
+        "description": "Error Fetching Products"
+    },
+    "retry": "Retry",
+    "@retry": {
+        "description": "Retry"
+    },
+    "media": "Media",
+    "@media": {
+        "description": "Media"
+    },
+    "addVariation": "Add Variation",
+    "@addVariation": {
+        "description": "Add Variation"
+    },
+    "takePhoto": "Take Photo",
+    "@takePhoto": {
+        "description": "Take Photo"
+    },
+    "inData": "In",
+    "@inData": {
+        "description": "In"
+    },
+    "photoErrorPartTwo": "settings, please give Adret access to your photo library",
+    "@photoErrorPartTwo": {
+        "description": "settings, please give Adret access to your photo library"
+    },
+    "continueData": "Cancel",
+    "@continueData": {
+        "description": "Cancel"
+    },
+    "value": "value",
+    "@value": {
+        "description": "value"
+    },
+    "cartAdded": "Product Added to Cart",
+    "@cartAdded": {
+        "description": "Product Added to Cart"
+    },
+    "outOfStock": "The selected item is out of stock",
+    "@outOfStock": {
+        "description": "The selected item is out of stock"
+    },
+    "buyingPriceError": "Please provide a valid buying price",
+    "@buyingPriceError": {
+        "description": "Please provide a valid buying price"
+    },
+    "addImageError": "Please provide at least one image",
+    "@addImageError": {
+        "description": "Please provide at least one image"
+    },
+    "titleError": "Please provide a title for the product",
+    "@titleError": {
+        "description": "Please provide a title for the product"
+    },
+    "categoryError": "Please provide the product category",
+    "@categoryError": {
+        "description": "Please provide the product category"
+    },
+    "inventoryValidationError": "Inventory validation failed",
+    "@inventoryValidationError": {
+        "description": "Inventory validation failed"
+    },
+    "minSellingPriceError": "Please provide a valid min selling price",
+    "@minSellingPriceError": {
+        "description": "Please provide a valid min selling price"
+    },
+    "minInitialValidationError": "The min selling Price can't be less than the initial Price",
+    "@minInitialValidationError": {
+        "description": "The min selling Price can't be less than the buying Price"
+    },
+    "maxSellingPriceError": "Please provide a valid max Selling price",
+    "@maxSellingPriceError": {
+        "description": "Please provide a valid max Selling price"
+    },
+    "minMaxValidationError": "Min selling price can't be greater than the max selling price",
+    "@minMaxValidationError": {
+        "description": "Min selling price can't be greater than the max selling price"
+    },
+    "latter": "Latter",
+    "@latter": {
+        "description": "Latter"
+    },
+    "categoryTextToLong": "Category can't be this long",
+    "@categoryTextToLong": {
+        "description": "Category can't be this long"
+    },
+    "categoryTextError": "Please select or add a category",
+    "@categoryTextError": {
+        "description": "Please select or add a category"
+    }
+}

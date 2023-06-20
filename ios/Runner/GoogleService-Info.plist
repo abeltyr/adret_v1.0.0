@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>236692801805-d5j8pb94squkilg890pm3ss3i3mefrdh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.236692801805-d5j8pb94squkilg890pm3ss3i3mefrdh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCifctiHCt209-BTd9EVEObRr3gSPjT0U0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>236692801805</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.inventory.adret</string>
+	<key>PROJECT_ID</key>
+	<string>adret-37eec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>adret-37eec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:236692801805:ios:26b497bcbad81cdff44844</string>
+</dict>
+</plist>

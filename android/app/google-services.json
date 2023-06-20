@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "236692801805",
+    "project_id": "adret-37eec",
+    "storage_bucket": "adret-37eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236692801805:android:c8b59f824dd0a6d4f44844",
+        "android_client_info": {
+          "package_name": "com.inventory.adret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236692801805-ltr85brn4jbk6f4bq8nag4urdnrrp79h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFXOF-UcLhDcWUFExFWkd-9mGbvLZLclg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236692801805-ltr85brn4jbk6f4bq8nag4urdnrrp79h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236692801805-2ffbicgl2rh6c2m8jne5l9vmnho2nscm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adret"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
